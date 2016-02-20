@@ -9,9 +9,9 @@
 title: Bistro Digital
 email: francisco@bistro.digital
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Bistro Digital is a software consulting team, focused in product development. The team is high skilled in
+  many technologies like iOS, Android, HTML5+CSS3+Javascript, Ruby, Java, PHP and many others. We use our unique
+  software development methodology based in the SCRUM framework and the manifesto for agile software development.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://bistro.digital" # the base hostname & protocol for your site
 twitter_username: BistroDigital
